@@ -9,6 +9,7 @@
   "author": "Jeseekia Vaughn (metadevgirl)",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.1.4",
     "tmi.js": "^1.8.5"
   }
 }
