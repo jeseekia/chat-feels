@@ -95,6 +95,12 @@ You should see the contents of your chat messages being logged as they are poste
 
 You should also see the chat messages being stored to the MongoDB instance that is connected.
 
+#### Project deployment
+
+##### Render
+
+_WIP_
+
 #### Data export
 _WIP_
 
